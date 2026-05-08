@@ -1,6 +1,9 @@
 /* Start server : 
+ - npm install -g pnpm
+ - pnpm i -g @nestjs/cli
+ - pnpm install pdfkit-table
  - pnpm run start:dev
- - http://localhost:3000/pdf/generate */
+ - http://localhost:3001/pdf/generate */
 
 import { Injectable } from '@nestjs/common';
 
